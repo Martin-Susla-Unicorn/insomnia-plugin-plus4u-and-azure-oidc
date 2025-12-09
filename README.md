@@ -1,3 +1,6 @@
+# Warning
+This is just a fork of https://github.com/UnicornUniverse/insomnia-plugin-plus4u-oidc where the only change is added support for Azure. 
+
 This Insomnia plugin enables easy authentication againsts [https://oidc.plus4.net](https://oidc.plus4u.net/uu-oidcg01-main/0-0/) (it can be changed in plugin configuration).
 
 [Changelog](CHANGELOG.md) 
